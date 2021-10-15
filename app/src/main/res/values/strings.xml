@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="logo_description">Логотип кафе</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="hint_name">введите ваше имя:</string>
+    <string name="hint_password">введите ваш пароль:</string>
+    <string name="btn_create">создать заказ</string>
+</resources>
